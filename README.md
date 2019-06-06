@@ -4,3 +4,4 @@
 ## 1.先安装 etcd + docker + flannel
 ## 2.安装k8s
 ## 3.安装docker-registry
+
